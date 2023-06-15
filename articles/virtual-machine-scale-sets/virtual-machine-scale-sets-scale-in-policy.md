@@ -24,7 +24,7 @@ The scale-in policy feature provides users a way to configure the order in which
 3. OldestVM
 
 > [!IMPORTANT]
-> Flexible orchestration for Virtual Machine Scale Sets does not currently support scale-in policy.
+> Flexible orchestration for Virtual Machine Scale Sets now supports scale-in policy with July API version.
 
 ### Default scale-in policy
 
